@@ -1,0 +1,21 @@
+# Nmap 7.95 scan initiated Tue Oct 21 09:21:07 2025 as: /usr/lib/nmap/nmap -sS -oN scan_results.txt 192.168.100.0/24
+Nmap scan report for 192.168.100.1
+Host is up (0.0017s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+445/tcp open  microsoft-ds
+MAC Address: 52:55:C0:A8:64:01 (Unknown)
+
+Nmap scan report for 192.168.100.2
+Host is up (0.0026s latency).
+All 1000 scanned ports on 192.168.100.2 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 08:00:27:F4:BC:A5 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+Nmap scan report for 192.168.100.3
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 192.168.100.3 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Tue Oct 21 09:21:16 2025 -- 256 IP addresses (3 hosts up) scanned in 8.40 seconds
