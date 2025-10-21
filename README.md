@@ -6,16 +6,6 @@ This project demonstrates network scanning with Nmap on a local subnet, explains
 
 Learn to discover open ports and running services on devices in your local network, analyze network exposure, and document the findings professionally for cybersecurity assessments.
 
-## Project Structure
-
-```
-.
-├── README.md
-├── scan_results.txt       # Nmap text output
-├── scan.xml               # Nmap XML output (used for HTML conversion)
-├── scan.html              # Converted HTML report
-├── screenshots/           # Terminal and result screenshots
-```
 
 ## Types of Nmap Scans
 
